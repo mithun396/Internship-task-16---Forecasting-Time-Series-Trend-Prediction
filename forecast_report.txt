@@ -1,0 +1,20 @@
+TASK 16: TIME SERIES FORECASTING REPORT
+
+Objective: To forecast future sales using historical store sales data
+and identify trends for business planning.
+
+Data Preparation: - Converted date column to datetime format. - Sorted
+data chronologically. - Aggregated sales on a monthly basis. -
+Visualized overall trend and rolling mean for smoothing.
+
+Model Used: Exponential Smoothing (Additive Trend)
+
+Evaluation Metrics: - MAE: (Replace with your calculated MAE value) -
+MAPE: (Replace with your calculated MAPE value) %
+
+Business Insights: - Sales demonstrate a time-based trend. - Forecasting
+enables better inventory planning. - Helps in budgeting and target
+setting. - Model performance can be improved by adding seasonality.
+
+Conclusion: Time-series forecasting supports data-driven decision making
+and improves demand prediction accuracy for future periods.
