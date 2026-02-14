@@ -35,5 +35,4 @@ This project demonstrates practical implementation of time-series forecasting us
 The forecasting model can be further improved by adding seasonal components or advanced models like ARIMA for better accuracy.
 
 MAE (Mean Absolute Error)
-
-MAPE (Mean Absolute Perce
+MAPE (Mean Absolute Perce)
